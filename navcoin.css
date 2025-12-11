@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    background-color: #8bdbdb;
+    text-align: center;
+
+}
+.register{
+    align-items: center;
+    margin:10px;
+    text-align: center;
+    Font-Size:30px;
+    margin-top: 50px;
+    color:black;
+    text-align:start;
+}
+     
+.item{
+align-items: center;
+    background: rgb(190, 235, 227);
+      color: black;
+      padding: 10px;
+      border-radius: 20px;
+      width: 100%;
+      font-size: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+      text-align: center;
+}
